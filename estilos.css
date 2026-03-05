@@ -622,5 +622,11 @@ footer .logo_blanco{
   .responsive{
     width:100%;
   }
+}
 
+section{
+  width: 100%;
+  background-color: #D9D9D9;
+  float: left;
+  min-height: calc(95vh - 100px);
 }
